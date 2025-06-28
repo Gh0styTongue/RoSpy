@@ -44,7 +44,6 @@
    ```bash
    python main.py 
    ```
-   *(Assuming you've named your script `main.py` or similar)*
 
 4. **Using the Application:**
    * Enter the **Place ID** of the Roblox game you want to monitor into the input field.
